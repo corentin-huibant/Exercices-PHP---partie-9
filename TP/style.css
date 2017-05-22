@@ -1,0 +1,28 @@
+#calendarCentered {
+  margin-top: 50px;
+  margin-left: 20px;
+  border: 10px solid black;
+  padding: 15px;
+  border-radius : 5%;
+  background-color: beige;
+}
+th {
+    border: black solid 3px;
+    width: 170px;
+    background-color: #808080;
+}
+td {
+    width: 170px;
+    height: 150px;
+    border: black solid 3px;
+    background-color: white;
+    vertical-align: top;
+}
+table {
+    border: black solid 3px;
+    border-collapse: collapse;
+}
+.noDays {
+    background-color: #808080;
+    opacity: 0.5;
+}
